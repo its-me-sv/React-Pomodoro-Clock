@@ -1,0 +1,37 @@
+.title {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0;
+}
+
+img {
+    width: 42px;
+    height: 42px;
+    margin: 0;
+}
+
+.lengths-container{
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.length-box { 
+    display: flex;
+    flex-direction: column;
+    margin-right: 2rem;
+}
+
+.sub-length-box {
+    margin-top: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+}
+
+.digit {
+    margin: 4px;
+}
